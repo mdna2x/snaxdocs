@@ -1,4 +1,4 @@
 # Snaxdocs
 > Snax By God | Documentation
 
-Documentation for Snax By God NFT Collection.
+Snaxdocs is a repository dedicated to maintaining all ZVZ documentation.
