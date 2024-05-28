@@ -1,10 +1,6 @@
 > ZVZ | Frequently Asked Questions
 # FREQUENTLY ASKED QUESTIONS
 
-
-### When can I start to mint?
-All NFTs will be ready to mint as soon as they are listed. The official launch date will be announced June 1, 2024.
-
 ### What happened to my highlight?
 If your code is inactive, it is because your link is in a Hot or Finked state.
 
